@@ -175,11 +175,8 @@ The primary script is designed to run in a Google Colab environment. Follow the 
 video-audio-transcription-tool/
 ├── README.md
 ├── requirements.txt
-├── .gitignore
-├── LICENSE
-├── transcribe.py
-└── srt_output/
-    └── subtitles.srt
+├── main.py
+
 ```
 
 - **transcribe.py**: The main script containing the code you provided.
